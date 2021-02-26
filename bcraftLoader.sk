@@ -1,3 +1,0 @@
-on load:
-  wait 1 second
-  make console execute command "/sk reload bcraft"
